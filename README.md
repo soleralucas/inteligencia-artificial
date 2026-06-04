@@ -8,11 +8,13 @@ O desafio consistiu em reproduzir a interface apresentada em aula utilizando con
 
 A aplicação é composta por três páginas distintas, permitindo exercitar a navegação entre páginas e a construção de layouts estáticos de forma consistente.
 
+O projeto também possui um layout responsivo, permitindo que o conteúdo se adapte ao redimensionamento da janela do navegador sem cortes ou perda de informações.
+
 ## Imagens da aplicação
 
 ![Página Quem Somos](LINK_DA_IMAGEM)
 
-![Página Nossos Serviços](LINK_DA_IMAGEM)
+![Página Nossos serviços](LINK_DA_IMAGEM)
 
 ![Página Contatos](LINK_DA_IMAGEM)
 
@@ -46,10 +48,11 @@ index.html
 
 em qualquer navegador web.
 
-Caso deseje visualizar ou editar o código-fonte, o projeto também pode ser aberto normalmente no Visual Studio Code utilizando a extensão Live Server.
+Caso deseje visualizar ou editar o código-fonte, o projeto também pode ser aberto normalmente no Visual Studio Code e executado utilizando a extensão Live Server.
 
 # Autor
 
 Lucas Pereira Solera
 
 https://www.linkedin.com/in/lucas-pereira-solera/
+
