@@ -12,11 +12,11 @@ O projeto também possui um layout responsivo, permitindo que o conteúdo se ada
 
 ## Imagens da aplicação
 
-![Página Quem Somos](LINK_DA_IMAGEM)
+![Página Quem Somos](https://github.com/soleralucas/assets/blob/main/projeto-inteling%C3%AAncia-artificial/Captura%20de%20tela%202026-06-04%20235243.png)
 
-![Página Nossos serviços](LINK_DA_IMAGEM)
+![Página Nossos serviços](https://github.com/soleralucas/assets/blob/main/projeto-inteling%C3%AAncia-artificial/Captura%20de%20tela%202026-06-04%20235300.png)
 
-![Página Contatos](LINK_DA_IMAGEM)
+![Página Contatos](https://github.com/soleralucas/assets/blob/main/projeto-inteling%C3%AAncia-artificial/Captura%20de%20tela%202026-06-04%20235157.png)
 
 # Tecnologias utilizadas
 
